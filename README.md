@@ -1,5 +1,6 @@
 
-![walmart](https://github.com/user-attachments/assets/b0bbd781-ba7d-4a61-8422-40cfe8915693)
+![image](https://github.com/user-attachments/assets/4b6ddafb-5f4b-4286-a17e-232ff1332c14)
+
 Project Overview
 
 This Power BI dashboard presents an interactive analysis of Walmart's weekly sales data. The goal is to uncover sales patterns, highlight top-performing stores, and examine how external factors such as holidays, unemployment rates, fuel prices, and temperature affect consumer behavior.
