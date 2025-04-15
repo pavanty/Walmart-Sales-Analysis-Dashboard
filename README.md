@@ -7,7 +7,7 @@ This Power BI dashboard presents an interactive analysis of Walmart's weekly sal
 
 How to Download and Open the PBIX File
 
-Click on the Suicide_In_USA.pbix file in this repository.
+Click on the Walmart-Sales-Analysis-Dashboard.pbix file in this repository.
 
 Click the Download button (top-right) to save it locally.
 
